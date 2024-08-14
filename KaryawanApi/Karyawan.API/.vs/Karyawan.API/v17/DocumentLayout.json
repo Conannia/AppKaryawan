@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\models\\karyawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\models\\karyawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\data\\kdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\data\\kdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\karyawan.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\karyawan.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\migrations\\20240814075332_initial migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\migrations\\20240814075332_initial migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|d:\\nurul file\\test mandiri\\karyawanapi\\karyawan.api\\karyawan.api\\migrations\\20240814051008_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166544BF-7A1B-4CAE-9153-967F17386F67}|Karyawan.API\\Karyawan.API.csproj|solutionrelative:karyawan.api\\migrations\\20240814051008_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 839,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Karyawan.API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:41:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240814051008_Initial Migration.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Migrations\\20240814051008_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Migrations\\20240814051008_Initial Migration.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Migrations\\20240814051008_Initial Migration.cs",
+              "RelativeToolTip": "Karyawan.API\\Migrations\\20240814051008_Initial Migration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:10:08.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Program.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Program.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Program.cs",
+              "RelativeToolTip": "Karyawan.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:02:05.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Karyawan.API\\appsettings.json",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\appsettings.json",
+              "RelativeToolTip": "Karyawan.API\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T05:00:31.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KDbContext.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Data\\KDbContext.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Data\\KDbContext.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Data\\KDbContext.cs",
+              "RelativeToolTip": "Karyawan.API\\Data\\KDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:44:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Karyawan.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Models\\Karyawan.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Models\\Karyawan.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Models\\Karyawan.cs",
+              "RelativeToolTip": "Karyawan.API\\Models\\Karyawan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:32:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240814075332_Initial Migration2.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Migrations\\20240814075332_Initial Migration2.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Migrations\\20240814075332_Initial Migration2.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Migrations\\20240814075332_Initial Migration2.cs",
+              "RelativeToolTip": "Karyawan.API\\Migrations\\20240814075332_Initial Migration2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:53:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Karyawan.API.csproj",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Karyawan.API.csproj",
+              "RelativeDocumentMoniker": "Karyawan.API\\Karyawan.API.csproj",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Karyawan.API.csproj",
+              "RelativeToolTip": "Karyawan.API\\Karyawan.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T04:29:11.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Karyawan.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Mandiri\\KaryawanApi\\Karyawan.API\\Karyawan.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Karyawan.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:08:11.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
