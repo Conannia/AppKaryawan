@@ -1,0 +1,28 @@
+<div class="container">
+    <h1>Data Karyawan</h1>
+    <table class="table" *ngIf="karyawan.length > 0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nama</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Gaji</th>
+                <th>Divisi</th>
+                <th>Level</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of karyawan">
+                <td>{{ item.id }}</td>
+                <td>{{ item.nama }}</td>
+                <td>{{ item.email }}</td>
+                <td>{{ item.phone }}</td>
+                <td>{{ item.gaji }}</td>
+                <td>{{ item.divisi }}</td>
+                <td>{{ item.level }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <p *ngIf="karyawan.length === 0">Data Karyawan Kosong</p>
+</div>
