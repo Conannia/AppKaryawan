@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karyawan.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8404356a4e1ce5fa342590456bf5c08c47f83a4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karyawan.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karyawan.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
